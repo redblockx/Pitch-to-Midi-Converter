@@ -7,6 +7,6 @@ A calculation window of 20 milliseconds will be used for autocorrelation, where 
 Subsequently, this value will be converted into a MIDI language-specific number, and NoteOn and NoteOff events will be generated to produce musical notes.
 
 - Usage:
-- Before the plugin apply a noise gate plugin with the treshold of at least -35db.
+- Before the plugin, apply a noise gate with the treshold of at least -35db.
 - Set the input to audio and output to MIDI.
 - If you are singing with your voice, try using only vowels.
